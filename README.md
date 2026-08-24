@@ -1,8 +1,9 @@
 # Pattern-Matching-Using-Z-Algorithm
 #   Team Members
-# 2520030141 - Rayanki Himavarshini
-# 2520030514 - Naliveni Sai Pranavi
-# 2520030587 - Jampani Sai Spoorthi
+2520030141 - Rayanki Himavarshini
+2520030514 - Naliveni Sai Pranavi
+2520030587 - Jampani Sai Spoorthi
+
 # Pattern Matching Using Z-Algorithm
 
 ## 3. Supervisor
@@ -10,9 +11,7 @@
 Supervisor Name
 
 ## 4. Abstract
-Pattern matching is the process of finding all occurrences of a given pattern within a larger text and is widely used in text processing and information retrieval. Traditional brute-force searching may perform repeated comparisons, resulting in **O(n × m)** time complexity in the worst case. This project proposes an efficient solution using the **Z-Algorithm** for exact pattern matching.
-
-The algorithm combines the pattern, a unique separator, and the text in the form **Pattern + "$" + Text** and constructs a **Z-array** to identify matching substrings. By using the Z-box technique, previously matched information is reused, reducing unnecessary comparisons and achieving **O(n + m) time complexity**. The project is implemented in **Java** and displays all positions where the pattern occurs in the given text. The system demonstrates efficient string searching and can be applied to areas such as search engines, text editors, DNA sequence matching, plagiarism detection, and cybersecurity.
+Pattern matching is the process of finding all occurrences of a given pattern within a larger text and is widely used in text processing and information retrieval. Traditional brute-force searching may perform repeated comparisons, resulting in **O(n × m)** time complexity in the worst case. This project proposes an efficient solution using the **Z-Algorithm** for exact pattern matching. The algorithm combines the pattern, a unique separator, and the text in the form **Pattern + "$" + Text** and constructs a **Z-array** to identify matching substrings. By using the Z-box technique, previously matched information is reused, reducing unnecessary comparisons and achieving **O(n + m) time complexity**. The project is implemented in **Java** and displays all positions where the pattern occurs in the given text. The system demonstrates efficient string searching and can be applied to areas such as search engines, text editors, DNA sequence matching, plagiarism detection, and cybersecurity.
 
 
 ## 5. Problem Statement
