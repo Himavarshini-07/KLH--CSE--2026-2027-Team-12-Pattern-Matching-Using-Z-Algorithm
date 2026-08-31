@@ -291,3 +291,43 @@ The team follows regular communication and task division to ensure that implemen
 ### Expected Outcome
 
 The completed system will accept a text and pattern from the user, efficiently identify all exact occurrences of the pattern using the Z-Algorithm, and display their starting positions with `O(n + m)` time complexity.
+
+# code explain
+Input
+Text = ABABABA
+Pattern = ABA
+
+      │
+      ▼
+
+Create Combined String
+ABA$ABABABA
+
+      │
+      ▼
+
+Compute Z-Array
+
+      │
+      ▼
+
+Z = [0,0,1,0,3,0,3,0,3,0,1]
+
+      │
+      ▼
+
+Z value = Pattern Length (3)?
+
+      │
+      ▼
+
+Yes → Positions: 0, 2, 4
+
+      │
+      ▼
+
+Output:
+Pattern found at positions:
+0
+2
+4
