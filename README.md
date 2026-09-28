@@ -8,7 +8,7 @@
 
 ## 3. Supervisor
 
-Supervisor Name
+Ch.Anuradha
 
 ## 4. Abstract
 Pattern matching is the process of finding all occurrences of a given pattern within a larger text and is widely used in text processing and information retrieval. Traditional brute-force searching may perform repeated comparisons, resulting in **O(n × m)** time complexity in the worst case. This project proposes an efficient solution using the **Z-Algorithm** for exact pattern matching. The algorithm combines the pattern, a unique separator, and the text in the form **Pattern + "$" + Text** and constructs a **Z-array** to identify matching substrings. By using the Z-box technique, previously matched information is reused, reducing unnecessary comparisons and achieving **O(n + m) time complexity**. The project is implemented in **Java** and displays all positions where the pattern occurs in the given text. The system demonstrates efficient string searching and can be applied to areas such as search engines, text editors, DNA sequence matching, plagiarism detection, and cybersecurity.
@@ -80,9 +80,9 @@ The linear-time performance is maintained by reusing information from previously
 | 3         | Z-Algorithm Study              | ✅ Completed    |
 | 4         | System Design & Methodology    | ✅ Completed    |
 | 5         | Pseudocode & Flowchart         | ✅ Completed    |
-| 6         | Java Implementation            | 🔄 In Progress |
-| 7         | Test Case Implementation       | 🔄 In Progress |
-| 8         | Complexity Analysis            | 🔄 In Progress |
+| 6         | Java Implementation            | ✅ Completed  |
+| 7         | Test Case Implementation       |  ✅ Completed |
+| 8         | Complexity Analysis            |  ✅ Completed |
 | 9         | Documentation & README         | 🔄 In Progress |
 | 10        | GitHub Repository Organization | 🔄 In Progress |
 | 11        | Final Demonstration            | ⏳ Planned      |
