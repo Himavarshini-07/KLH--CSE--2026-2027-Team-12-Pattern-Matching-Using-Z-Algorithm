@@ -331,3 +331,4 @@ Pattern found at positions:
 0
 2
 4
+![image_alt](https://github.com/Himavarshini-07/KLH--CSE--2026-2027-Team-12-Pattern-Matching-Using-Z-Algorithm/blob/main/Flowchart%20for%20Pattern%20Matching.jpeg?raw=true)
