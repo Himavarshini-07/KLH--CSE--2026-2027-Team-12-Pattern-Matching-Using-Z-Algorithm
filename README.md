@@ -83,10 +83,10 @@ The linear-time performance is maintained by reusing information from previously
 | 6         | Java Implementation            | ✅ Completed  |
 | 7         | Test Case Implementation       |  ✅ Completed |
 | 8         | Complexity Analysis            |  ✅ Completed |
-| 9         | Documentation & README         | 🔄 In Progress |
-| 10        | GitHub Repository Organization | 🔄 In Progress |
-| 11        | Final Demonstration            | ⏳ Planned      |
-| 12        | Final Presentation             | ⏳ Planned      |
+| 9         | Documentation & README         |  ✅ Completed |
+| 10        | GitHub Repository Organization |  ✅ Completed |
+| 11        | Final Demonstration            |  ✅ Completed      |
+| 12        | Final Presentation             | ✅ Completed      |
 
 **Current Phase:** Implementation, Testing and Documentation.
 
