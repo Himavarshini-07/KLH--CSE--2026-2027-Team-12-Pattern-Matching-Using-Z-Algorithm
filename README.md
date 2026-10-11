@@ -4,9 +4,9 @@ Pattern Matching Using Z-Algorithm
 An Efficient Linear-Time Algorithm for Exact String Matching
 2. Team Members
 Member	Roll No.	Main Responsibility
-Naliveni Sai Pranavi	2520030514	Algorithm & Core Implementation
-Jampani Sai Spoorthi	2520030587	Testing, Analysis & Documentation
-Member 3	Roll No.	UI/Execution, Presentation & Repository
+ HimaVarshini	2520030141	Algorithm & Core Implementation
+ N.Sai Pranavi	2520030514	Testing, Analysis & Documentation
+ J.Sai Spoorthi 2520030587	UI/Execution, Presentation & Repository
 
 
 3. Supervisor
@@ -134,13 +134,13 @@ Phase 2	Problem Definition	✅ Completed
 Phase 3	Algorithm Study	✅ Completed
 Phase 4	Z-Algorithm Design	✅ Completed
 Phase 5	Pseudocode & Flowchart	✅ Completed
-Phase 6	Java Implementation	🔄 In Progress
-Phase 7	Test Cases	🔄 In Progress
-Phase 8	Performance Analysis	⏳ Planned
-Phase 9	README & Documentation	🔄 In Progress
-Phase 10	GitHub Repository	🔄 In Progress
-Phase 11	Final Demonstration	⏳ Planned
-Phase 12	Final Presentation	⏳ Planned
+Phase 6	Java Implementation	 	✅ Completed
+Phase 7	Test Cases	 	✅ Completed
+Phase 8	Performance Analysis	 	✅ Completed
+Phase 9	README & Documentation	 	✅ Completed
+Phase 10	GitHub Repository	 	✅ Completed
+Phase 11	Final Demonstration	 	✅ Completed
+Phase 12	Final Presentation	 	✅ Completed
 
 
 This status table is intended to be updated according to your team's actual progress.    Pasted markdown
